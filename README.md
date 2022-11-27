@@ -8,8 +8,8 @@
 
 
 <p align="left"> - 🔭 I’m currently working on building a website <br>
-- 🌱 I’m currently learning python and javascript<br>
-- 💬 Ask me about html and css<br>
+- 🌱 I’m currently learning Python and Javascript<br>
+- 💬 Ask me about HTML, CSS, Figma and Matlab<br>
 </p>
 
 <h3 align="left">I'm familiar with:</h3>
