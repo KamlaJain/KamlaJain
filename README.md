@@ -7,8 +7,8 @@
 <h5 align="left">Some days I amaze myself, other days I put my keys in the fridge.</h5>
 
 
-<p align="left"> - 🔭 I’m currently working on building a website <br>
-- 🌱 I’m currently learning Python and Javascript<br>
+<p align="left"> - 🔭 I’m currently working on building a dating website 'MI AMOR'<br>
+- 🌱 I’m currently learning Python, Django and Javascript<br>
 - 💬 Ask me about HTML, CSS, Figma and Matlab<br>
 </p>
 
